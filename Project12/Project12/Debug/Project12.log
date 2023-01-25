@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\wiist\source\repos\project12\project12\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project12\project12\main.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  LayerCake.cpp
+  CupCake.cpp
+  Bread.cpp
+  Project12.vcxproj -> C:\Users\wiist\source\repos\Project12\Debug\Project12.exe

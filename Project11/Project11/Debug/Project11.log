@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\wiist\source\repos\project11\project11\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project11\project11\main.cpp(232): warning C4018: '<': signed/unsigned mismatch
+  Project11.vcxproj -> C:\Users\wiist\source\repos\Project11\Debug\Project11.exe
