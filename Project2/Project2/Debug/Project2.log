@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\wiist\source\repos\project2\project2\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project2\project2\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project2\project2\source.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project2\project2\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\wiist\source\repos\Project2\Debug\Project2.exe
