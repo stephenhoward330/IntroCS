@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\wiist\source\repos\project6\project6\source.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\wiist\source\repos\project6\project6\source.cpp(206): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project6.vcxproj -> C:\Users\wiist\source\repos\Project6\Debug\Project6.exe
